@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-   <h1>Your Score Is:<%= session.getAttribute("score") %></h1>
+   <h1>Your Score :<%= session.getAttribute("score") %></h1>
 </body>
 </html>
